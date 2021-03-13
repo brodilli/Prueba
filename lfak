@@ -1,0 +1,62 @@
+[33mcommit 0496e365f0adc762306974853b0fce99f00950c3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Brodilli <brodilli_@hotmail.com>
+Date:   Mon Mar 8 23:15:54 2021 -0600
+
+    Commit sin haber usado el add
+
+ obo.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit e060f48e53ff2404af3e611dacd04c6a0353f88b[m
+Author: Brodilli <brodilli_@hotmail.com>
+Date:   Sat Feb 27 23:53:46 2021 -0600
+
+    Mensaje añadido desde ventana commit
+
+ obo.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 5a2ca64aa6859512d714e6e78ddda7f661bd040b[m
+Author: Brodilli <brodilli_@hotmail.com>
+Date:   Sat Feb 27 23:52:19 2021 -0600
+
+    una más nueva transformacion
+
+ obo.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 5b9d00de03ce0d8c37dffff5289c5e5c9f8ed391[m
+Author: Brodilli <brodilli_@hotmail.com>
+Date:   Sat Feb 27 23:43:10 2021 -0600
+
+    nueva transformacion
+
+ obo.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit ac1b247ef395c2f98b42f83f2f6e3df0ffb463f6[m
+Author: Brodilli <brodilli_@hotmail.com>
+Date:   Sat Feb 27 23:37:31 2021 -0600
+
+    obo maximo
+
+ obo.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 24a5a8ac2b3e341669cb7ef85935f8cecaf17f7f[m
+Author: Brodilli <brodilli_@hotmail.com>
+Date:   Tue Feb 16 20:00:19 2021 -0600
+
+    Cambios
+
+ obo.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit c23dcef4fcdef88764285a3be3205042c07e4ea3[m
+Author: Brodilli <brodilli_@hotmail.com>
+Date:   Tue Feb 16 19:56:58 2021 -0600
+
+    Mi primer commit
+
+ obo.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
