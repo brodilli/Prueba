@@ -18,3 +18,7 @@ Cambios hechos con master, esperando fusion.
 
 Aqui va la fusion 
 estoy esperando anciano
+<<<<<<< HEAD
+=======
+agregando
+>>>>>>> cabezera
