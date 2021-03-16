@@ -109,7 +109,7 @@ public class Depurador {
                 if (depurado[i].isEmpty()) {
                     
                 }else{
-                    writer.println(depurado[i]+String.valueOf(i));
+                    writer.println(String.valueOf(i)+depurado[i]);
                 }
                 
             }
